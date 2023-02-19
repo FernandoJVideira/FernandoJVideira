@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Videira</h1>
 <h3 align="center">A passionate developer from Portugal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernand0jvideira" alt="fernand0jvideira" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandojvideira" alt="fernand0jvideira" /></a> </p>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif">
 
 <p align="left"> <a href="https://twitter.com/fernandoj_02_" target="blank"><img src="https://img.shields.io/twitter/follow/fernandoj_02_?logo=twitter&style=for-the-badge" alt="fernandoj_02_" /></a> </p>
