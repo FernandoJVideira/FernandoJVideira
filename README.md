@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **2211877@my.ipleiria.pt**
 
-- 📄 Know about my experiences[Europass](https://europa.eu/europass/eportfolio/screen/share/6e6d1fa0-bae8-4491-982f-65941c8bdc3c?lang=en)
+- 📄 Know about my experiences [Europass](https://europa.eu/europass/eportfolio/screen/share/6e6d1fa0-bae8-4491-982f-65941c8bdc3c?lang=en)
 
 
 <h3 align="left">Connect with me:</h3>
