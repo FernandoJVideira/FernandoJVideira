@@ -6,9 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/fernandoj_02_" target="blank"><img src="https://img.shields.io/twitter/follow/fernandoj_02_?logo=twitter&style=for-the-badge" alt="fernandoj_02_" /></a> </p>
 
-- 🌱 I’m currently at **[VOID Software](https://github.com/VOID-SOFTWARE)** as a QA intern
-
-- 🛠️ I'm currently working with [Cypress](https://docs.cypress.io/)
+- 🌱 I’m currently doin' nothing ;-;
 
 - 📫 How to reach me **2211877@my.ipleiria.pt**
 
