@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/fernandoj_02_" target="blank"><img src="https://img.shields.io/twitter/follow/fernandoj_02_?logo=twitter&style=for-the-badge" alt="fernandoj_02_" /></a> </p>
 
-- 🌱 I’m currently doin' nothing ;-;
+- 🌱 I’m currently Studying Computer Engeneering at Plythecnic of Leiria
 
-- 📫 How to reach me **2211877@my.ipleiria.pt**
+- 📫 How to reach me **2231956@my.ipleiria.pt**
 
 - 📄 Know about my experiences [Europass](https://europa.eu/europass/eportfolio/screen/share/6e6d1fa0-bae8-4491-982f-65941c8bdc3c?lang=en)
 
