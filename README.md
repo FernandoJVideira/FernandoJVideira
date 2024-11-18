@@ -1,6 +1,6 @@
 # 💫 About Me :
 
-<img align="right" alt="Coding" width="500" src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif">
 
 - 🌱 I’m currently Studying Software Engeneering
 - 📫 How to reach me **info@fernandovideira.com**
