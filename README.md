@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/fernandoj_02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fernandoj_02_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fernando-videira-info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-videira-info" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19307508/xkriox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19307508/xkriox" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25122830/fernando-jos%c3%a9-videira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19307508/xkriox" height="30" width="40" /></a>
 </p>
 
  <h1> 💻 Tech Stack </h1>
