@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="500" src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif">
 
-- 🌱 I’m currently Studying Computer Engeneering
+- 🌱 I’m currently Studying Software Engeneering
 
-- 📫 How to reach me **2231956@my.ipleiria.pt**
+- 📫 How to reach me **info@fernandovideira.com**
 
 - 📄 Know about my experiences [Europass](https://europa.eu/europass/eportfolio/screen/share/c87f3c6a-c904-46c1-9e22-4c2295690973?lang=en)
 - 💻 Check out my [Website](https://fernandovideira.com)
@@ -55,26 +55,10 @@
       height="40"
     />
   </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
-      alt="swift"
-      width="40"
-      height="40"
-    />
-  </a>
 </p>
 
 <h3 align="left">Backend Development:</h3>
 <p align="left">
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -93,7 +77,7 @@
   </a>
 </p>
 
-<h3 align="left">Frontend Development (Still learning ;-;):</h3>
+<h3 align="left">Frontend Development:</h3>
 <p align="left">
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img
@@ -111,17 +95,7 @@
       height="40"
     />
   </a>
-</p>
-<h3 align="left">Mobile Development (Also learning ;-;):</h3>
-<p align="left">
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"
-      alt="ionic"
-      width="40"
-      height="40"
-    />
-  </a>
+  </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 <h3 align="left">Tools:</h3>
 <p align="left">
