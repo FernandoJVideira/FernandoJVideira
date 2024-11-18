@@ -7,7 +7,7 @@
 - 📄 Check my [CV](https://fernandovideira.com/CV_Fernando_Videira.pdf)
 - 💻 Check out my [Website](https://fernandovideira.com)
 
-## 🌐Socials
+ <h2> 🌐Socials </h2>
 
 <p align="left">
 <a href="https://twitter.com/fernandoj_02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fernandoj_02_" height="30" width="40" /></a>
@@ -15,11 +15,11 @@
 <a href="https://stackoverflow.com/users/19307508/xkriox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19307508/xkriox" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack
+ <h1> 💻 Tech Stack </h1>
 
-### Just some of my most used languages/frameworks 🤓
+ <h3> Just some of my most used languages/frameworks 🤓 </h3>
 
-## 💻 Main Dev Frameworks/Tools
+ <h2> 💻 Main Dev Frameworks/Tools </h2>
 
 ### Backend Development
 
