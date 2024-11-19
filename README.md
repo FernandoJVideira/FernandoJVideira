@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently Studying Software Engeneering
 - 📫 How to reach me **info@fernandovideira.com**
-- 📄 Check my [CV](https://fernandovideira.com/CV_Fernando_Videira.pdf)
 - 💻 Check out my [Website](https://fernandovideira.com)
 
  <h2> 🌐Socials </h2>
